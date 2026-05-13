@@ -1,6 +1,8 @@
 # Atmospheric River & Orographic Forcing Analysis (JJAS Monsoon)
 
-This project provides a modularized Python pipeline for analyzing the relationship between Atmospheric Rivers (ARs), Integrated Vapor Transport (IVT), Orographic Forcing, and Flood events in the Indian region during the JJAS (June-September) monsoon season.
+This project is the part of EVSRP401 : Master Thesis / Dissertation for the student named Abhishek Bhikaji Sarbhukan, the title of which is 'Atmospheric River and Flood : An Earth System Modeling Approach'. 
+
+It provides a modularized Python pipeline for analyzing the relationship between Atmospheric Rivers (ARs), Integrated Vapor Transport (IVT), Orographic Forcing, and Flood events over the Indian region during the JJAS (June-September) monsoon season.
 
 ## Project Overview
 The pipeline transitions from raw ERA5 flux data to identified AR events, analyzes the topographic influence (Orographic Forcing) of the Western Ghats, and finally links these atmospheric phenomena to catchment-level flood events using the INDOFLOODS dataset.
