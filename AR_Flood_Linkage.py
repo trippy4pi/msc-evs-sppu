@@ -1,4 +1,4 @@
-#5.AR-to-Flood Linkage Script
+#5.AR_Flood_Linkage.py
 
 import os
 import xarray as xr
