@@ -31,7 +31,7 @@ To run the full pipeline, the following datasets should be placed in the executi
 - **ERA5 Data:** `eastward_flux_1940_2025.nc`, `northward_flux_1940_2025.nc`, `ERA5_Geopotential.nc`
 - **Rainfall Data (IMD):** `RF_p25_1901_2025.nc`
 - **INDOFLOODS Data:** `floodevents_indofloods.csv`, `metadata_indofloods.csv`, and the `catchments_shapefiles_indofloods/` directory.
-- **Geography:** `india_st.shp` (India State boundaries).
+- **Shapefile:** `india_st.shp` (India State boundaries).
 
 ## Dependencies
 The environment requires the following libraries:
