@@ -42,4 +42,4 @@ The environment requires the following libraries:
 ## Scientific Reference
 The AR identification and linkage logic are based on:
 > Mahto, S.S., et al. (2023). **"Atmospheric rivers that make landfall in India are associated with flooding."** *Communications Earth & Environment*. [DOI: 10.1038/s43247-023-00775-9](https://doi.org/10.1038/s43247-023-00775-9)
-> INDOFLOOD Dataset (Partial): https://zenodo.org/records/14584655
+INDOFLOOD Dataset (Partial): https://zenodo.org/records/14584655
