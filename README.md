@@ -29,7 +29,7 @@ Links detected ARs to specific gauge-level flood events. It implements a spatial
 To run the full pipeline, the following datasets should be placed in the execution directory (or updated in the script headers):
 
 - **ERA5 Data:** `eastward_flux_1940_2025.nc`, `northward_flux_1940_2025.nc`, `ERA5_Geopotential.nc`
-- **Rainfall Data:** `RF_p25_1901_2025.nc`
+- **Rainfall Data (IMD):** `RF_p25_1901_2025.nc`
 - **INDOFLOODS Data:** `floodevents_indofloods.csv`, `metadata_indofloods.csv`, and the `catchments_shapefiles_indofloods/` directory.
 - **Geography:** `india_st.shp` (India State boundaries).
 
@@ -42,3 +42,4 @@ The environment requires the following libraries:
 ## Scientific Reference
 The AR identification and linkage logic are based on:
 > Mahto, S.S., et al. (2023). **"Atmospheric rivers that make landfall in India are associated with flooding."** *Communications Earth & Environment*. [DOI: 10.1038/s43247-023-00775-9](https://doi.org/10.1038/s43247-023-00775-9)
+> INDOFLOOD Dataset (Partial): https://zenodo.org/records/14584655
